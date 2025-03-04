@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramadhan-berita.github.io/top-religi/sitemap.xml
